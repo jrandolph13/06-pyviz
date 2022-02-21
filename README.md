@@ -1,4 +1,4 @@
-# Unit 6 - Pythonic Monopoly
+# Unit 6 - Pythonic Monopoly (pyviz)
 
 ![San Francisco Park Reading](Images/san-francisco-park-reading.jpg)
 
